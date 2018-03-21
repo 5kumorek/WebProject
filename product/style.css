@@ -1,0 +1,55 @@
+article {
+	margin:30px;
+}
+fieldset {
+	border:3px purple red;
+	text-align:center;
+	font-size: 40px;
+	padding:1px;
+}
+#display {
+	width: 50%;
+	float: left;
+
+	background-color:#A52A2A ;
+}
+#insert {
+	width: 50%;
+	float: left;
+
+	background-color:#FFA500 ;
+}
+#bottom {
+	margin:40px;
+}
+.buttons {
+	margin-right:40px;
+	margin-bottom:40px;
+}
+.in {
+	margin-right:50px;
+
+}
+thead {
+	background-color:#00ccff; 
+	font-weight:bold;
+}
+table {
+	border:3px solid black; 
+	border-collapse:collapse;
+}
+tfoot {
+	background-color:;
+}
+tr.color {
+	text-align:center; 
+	font-weight:bold; 
+	background-color:#ff33cc;
+}
+td {
+	font-size:10px;
+	padding: 10px;
+}
+td:first-child {
+	text-align:center;
+}
